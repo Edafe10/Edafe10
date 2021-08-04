@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning how to code with Kotlin language. 
 - 💞️ I’m looking to collaborate on any project that is dependant on Google Map API.
-- 📫 You can reach me on Whatsapp +234-805-111-185 or Email: edafe10@gmail.com
+- 📫 You can reach me on Whatsapp +234-8035-111-185 or Email: edafe10@gmail.com
 - Hear from you soon!
 
 <!---
